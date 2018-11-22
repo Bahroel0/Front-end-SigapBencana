@@ -9,7 +9,7 @@ const Home = () => (
     <Nav />
 
     <div className="hero">
-      <h1 className="title">Welcome to Next!</h1>
+      
       <p className="description">
         To get started, edit <code>pages/index.js</code> and save to reload.
       </p>
@@ -18,6 +18,8 @@ const Home = () => (
         <Link href="https://github.com/zeit/next.js#getting-started">
           <a className="card">
             <h3>Getting Started &rarr;</h3>
+            <p>Learn more about Next on Github and in their examples</p>
+            <p>Learn more about Next on Github and in their examples</p>
             <p>Learn more about Next on Github and in their examples</p>
           </a>
         </Link>
